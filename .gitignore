@@ -105,3 +105,8 @@ venv.bak/
 
 # IntelliJ
 .idea/
+
+# Dataset
+dataset/celeba
+dataset/mnist/mnist_*.csv
+*.h5py
