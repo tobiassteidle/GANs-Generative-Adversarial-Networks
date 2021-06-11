@@ -1,4 +1,4 @@
-# GANs-Generative-Adversarial-Networks-
+# GANs-Generative-Adversarial-Networks
 Samples for Generative Adversarial Networks
 
 ## Frameworks
